@@ -22,3 +22,9 @@
 <div>
   <img src="https://github.com/Chanwoongs/Date_Expecting_Game/assets/26241243/41cf7288-48cf-4c54-8660-4764f6fc8633" width="854" height="480"/>    
 </div>
+
+## 아쉬운 점
+> ### 부족한 데이터셋
+> 혼자 만든 데이터셋이라 양이 적을 뿐더러, 퀄리티가 그다지 좋지 못해 결과가 아쉬웠다.
+> ### OpenAI
+> GPT 3.5 버전과 DALLE가 예상되는 결과를 많이 보여주지 못했다. 다른 AI 모델 적용하여 비교해보고싶다.
