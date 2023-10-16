@@ -10,6 +10,9 @@
 ## 개요
 > ### 날아다니는 문장(나의 상태, 기분, 행동)을 선택하여 오늘있는 데이트의 결과를 예측해보자!
 
+## 개발 기간 (1인 개발)
+> ### 2023.07 ~ 2023.08
+
 ## 기술
 > ### [OpenAI API Chat(GPT 3.5) & DALLE 활용 (StartAI 함수)](https://github.com/Chanwoongs/Date_Expecting_Game/blob/main/Source/CGameMode.cpp)
 > OpenAI Library를 C++ 코드로 적용
