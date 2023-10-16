@@ -1,0 +1,68 @@
+{
+	"Result": [
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a blind date today, so please read all these sentences and predict in one short sentence how the blind date will go today\nI want to throw a party with my friends\nI think I'm excited about where it will happen\nI feel like running a movie marathon at home\nI want fresh sashimi and a glass of soju together\nI feel like I'm walking on a cloud\n",
+			"outMessage": "Based on your current state, mood, and needs, the blind date will likely go very well and leave you feeling extremely happy and content.",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-p6GMlbzMetpHXwvTXfsrjiOD.png?st=2023-10-11T12%3A18%3A16Z&se=2023-10-11T14%3A18%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-11T11%3A33%3A37Z&ske=2023-10-12T11%3A33%3A37Z&sks=b&skv=2021-08-06&sig=pAHtxqXZOWKUW3dDMOxdN14ymbk60M7A03UrZYMoCxQ%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a blind date today, so please read all these sentences and predict in one short sentence how the blind date will go today\nI want to throw a party with my friends\nI'm really stressed out because it's exam period\nI crave a piece of sweet chocolate cake\nIt's the quiet time with coffee\nI really want spicy chicken feet right now\nI like to exercise with fresh air in the morning\nI feel heavy today\nIt's short, but I like a meaningful conversation with family\nI'm dreaming of a trip in a small town in Europe\nI want a croissant with soft cream\nI feel like I'm walking on a cloud\n",
+			"outMessage": "The blind date will likely be enjoyable and go well.",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-dJbKKKR5PNQqswQKIq1s9sZU.png?st=2023-10-11T12%3A22%3A51Z&se=2023-10-11T14%3A22%3A51Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T19%3A46%3A21Z&ske=2023-10-11T19%3A46%3A21Z&sks=b&skv=2021-08-06&sig=L3vadX0qNtXnPiXR8mUBeiq0/BhxWqtWVyEjW/vFnBI%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI crave a piece of sweet chocolate cake\nI'm not tired at all today\nI feel like running a movie marathon at home\nI want to go to the beach where the sun shines\nI feel happy today\nHappy Happy Happy\nI feel like I'm pure and happy like a child\nRecently, I adopted a new pet animals.I'm happy\n",
+			"outMessage": "The date today will go great and you will have a wonderful time together.",
+			"inImageMessage": "",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-4LPeXCyOuesLVAzOFvY7TPa5.png?st=2023-10-11T12%3A40%3A30Z&se=2023-10-11T14%3A40%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T17%3A48%3A14Z&ske=2023-10-11T17%3A48%3A14Z&sks=b&skv=2021-08-06&sig=nHK/LeOr4HcWiPhGa4iWpOTYOxhIjh7PaZoCl5JviJY%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm really stressed out because it's exam period\nI want to get out of the busy city\nMy body and mind are so tired\nI feel heavy today\nIt's a little hard because I'm adjusting to the new environment\nMy heart aches because I broke up with my lover\na hard-to-get-up day\nI'm worried about small things\n",
+			"outMessage": "The date may have some challenges due to your current stress, fatigue, and emotional state.",
+			"inImageMessage": "",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-A0MspRIZQOzHkuzZ9OGw0Wa5.png?st=2023-10-11T12%3A44%3A32Z&se=2023-10-11T14%3A44%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T16%3A18%3A38Z&ske=2023-10-11T16%3A18%3A38Z&sks=b&skv=2021-08-06&sig=67ALgB/XexJDrt0tEAXoqizoH71dlpJFCh1Atqt5UDM%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI want to go camping under the starry sky\nI'm not tired at all today\nI crave a piece of sweet chocolate cake\nI feel happy today\nHappy Happy Happy\n",
+			"outMessage": "The date will go very well and will be filled with happiness and positive energy.",
+			"inImageMessage": "girlfriend and boyfirend dating in below atmosphere\nThe date will go very well and will be filled with happiness and positive energy.",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-TIytnRbFKoQQWGRSfN0V3394.png?st=2023-10-11T12%3A30%3A54Z&se=2023-10-11T14%3A30%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T18%3A55%3A41Z&ske=2023-10-11T18%3A55%3A41Z&sks=b&skv=2021-08-06&sig=Ypu7l%2BReMToRkM81J0q2Hxdp8BO3iWeIhNEsCgd3xY4%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm not tired at all today\nI want to throw a party with my friends\nI like to exercise with fresh air in the morning\nHappy Happy Happy\nI feel like I'm pure and happy like a child\nRecently, I adopted a new pet animals.I'm happy\n",
+			"outMessage": "The date will go incredibly well and you will have a fantastic time together.",
+			"inImageMessage": "girlfriend and boyfirend dating in below atmosphere\nThe date will go incredibly well and you will have a fantastic time together.",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-lgFX9s3Nj5HpfiStb1uvvOIf.png?st=2023-10-11T12%3A47%3A12Z&se=2023-10-11T14%3A47%3A12Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T14%3A57%3A18Z&ske=2023-10-11T14%3A57%3A18Z&sks=b&skv=2021-08-06&sig=ASxt16tKj4xAoTPe%2Bd2qSe6wbWZJuchiyTbGCdUYixs%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm really stressed out because it's exam period\nMy body and mind are so tired\nIt feels like walking around the dark tunnel.\nI feel heavy today\nIt's a little hard because I'm adjusting to the new environment\nMy heart aches because I broke up with my lover\nI think it's a little bit sleepy\na hard-to-get-up day\nI'm worried about small things\n",
+			"outMessage": "The date will likely be challenging due to the person's current state of stress, fatigue, and emotional turmoil from a recent breakup.",
+			"inImageMessage": "girlfriend and boyfirend dating in below atmosphere\nThe date will likely be challenging due to the person's current state of stress, fatigue, and emotional turmoil from a recent breakup.",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-QFvWNsXuCmnUqAJS4hSpGKHq.png?st=2023-10-11T12%3A48%3A55Z&se=2023-10-11T14%3A48%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-11T11%3A57%3A10Z&ske=2023-10-12T11%3A57%3A10Z&sks=b&skv=2021-08-06&sig=NgnUFkPwP1SXyPQEZ0FqKWkzVXdLKxAPnW0Ate%2Blp2k%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm really stressed out because it's exam period\nMy body and mind are so tired\nI'm going through a bad moment\nI have to work overtime\nI feel heavy today\nMy heart aches because I broke up with my lover\nI think it's a little bit sleepy\na hard-to-get-up day\nI'm worried about small things\n",
+			"outMessage": "It is likely that the date may not go as well due to your current stressed and tired state, but it can still be salvaged with the right chemistry and understanding from your partner.",
+			"inImageMessage": "\nMe and my boyfriend dating. date affected by my vibe",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-U0uwh5T0yhaLMfmLyoZhGXkf.png?st=2023-10-11T12%3A52%3A14Z&se=2023-10-11T14%3A52%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T18%3A26%3A10Z&ske=2023-10-11T18%3A26%3A10Z&sks=b&skv=2021-08-06&sig=THrrIWBvofbJoNczvHhCFn%2BsuseFfrP9E2SBU93muIY%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm really stressed out because it's exam period\nMy body and mind are so tired\nI'm going through a bad moment\nIt feels like walking around the dark tunnel.\nI feel heavy today\nIt's a little hard because I'm adjusting to the new environment\nI think it's a little bit sleepy\na hard-to-get-up day\n",
+			"outMessage": "The date may be a bit challenging due to the stress, tiredness, and overall negative mood.",
+			"inImageMessage": "\nMe and my boyfriend affected by my vibe",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-ZtBZYlo8EHAJcLR1mii284Xj.png?st=2023-10-11T12%3A56%3A39Z&se=2023-10-11T14%3A56%3A39Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-10T19%3A03%3A07Z&ske=2023-10-11T19%3A03%3A07Z&sks=b&skv=2021-08-06&sig=C5JPtgGQCQJsMFrrxWNjQO6skWar1FTHcA8QMbfQuiA%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm very mad and angry\nI'm really stressed out because it's exam period\nI'm going through a bad moment\nI want to fight anyone\nI have to work overtime\nI want to experience a new culture and food\nSuch a horrible feelings\na hard-to-get-up day\nI'm worried about small things\n",
+			"outMessage": "Based on your current state, mood, and needs, the date today may have some ups and downs but will generally go smoothly.",
+			"inImageMessage": "\nMe and my boyfriend affected by my vibe",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-kGOqa5uCLe4x94xM8ckHZXk8.png?st=2023-10-11T13%3A01%3A42Z&se=2023-10-11T15%3A01%3A42Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-11T00%3A03%3A04Z&ske=2023-10-12T00%3A03%3A04Z&sks=b&skv=2021-08-06&sig=/au7ur9x4nDzO93CsqzzRZ%2Bx5YFvm6/QqTNJoCACM/8%3D"
+		},
+		{
+			"inMessage": "I'm a woman in my 20s. The sentences below represent my current state , mood, and my needs. I have a date today, so please read all these sentences and predict in one short sentence how the date will go today\nI'm really stressed out because it's exam period\nI'm very mad and angry\nI want to get out of the busy city\nI'm going through a bad moment\nMy body and mind are so tired\nI want to fight anyone\nI feel heavy today\nI want to break and throw anything\nSuch a horrible feelings\na hard-to-get-up day\nI want to have my own time\nI'm worried about small things\n",
+			"outMessage": "The date today may not go smoothly due to the woman's stress, anger, and tiredness, which may affect her mood and ability to enjoy the date fully.",
+			"inImageMessage": "\nMe and my boyfriend affected by my vibe",
+			"imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-aVWPuQNzqFYWUvK4MIRE5Uae/user-5YdnSRVCAugGcsC3L1IcGU8N/img-izpjWlqKvd0YwmaFYsKLj6Uk.png?st=2023-10-11T13%3A04%3A23Z&se=2023-10-11T15%3A04%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-11T04%3A31%3A16Z&ske=2023-10-12T04%3A31%3A16Z&sks=b&skv=2021-08-06&sig=0CB4GrikkkckYO48dSPjLf7Ax%2Bz4xKlxts6C8AH63rs%3D"
+		}
+	]
+}
