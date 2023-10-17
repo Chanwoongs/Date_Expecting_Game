@@ -1,5 +1,6 @@
 # 데이트 결과 예측 게임
 ### Unreal Engine 5 & OpenAI API를 이용하여 C++로 제작한 게임입니다.
+### 학부 연구생 과제로 1인 제작한 게임이며, 코드 공개는 허가 받았습니다.
 
 <div>
   <img src="https://github.com/Chanwoongs/Date_Expecting_Game/assets/26241243/41fa0fd7-34bd-41ae-8bcc-3a330489643d" width="854" height="480"/>    
