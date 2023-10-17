@@ -19,7 +19,7 @@
 > ### C++ Widget 제작
 > BindWidget, BindWidgetAnim 키워드를 사용하여 클래스의 프로퍼티를 UMG와 연결하고 모든 기능을 코드로 구현
 > ### 데이터 가공 및 지속적인 테스트
-> 보다 정확한 결과가 나오기 위해 Parameter에 세부 내용을 추가 가공하고 테스트하여 Develope
+> 보다 정확한 결과가 나오기 위해 Parameter에 세부 내용을 추가 가공하고 테스트하여 Develop
 > ### 결과 데이터 저장
 > JSON 파일 형식으로 Input과 Output를 기존의 JSON 파일을 파싱하고 새로운 데이터를 추가하여 저장
 <div>
